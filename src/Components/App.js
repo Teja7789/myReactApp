@@ -24,6 +24,16 @@ export default function App() {
   //     name:"Mukhesh",
   //     email:"mukhesha@gmail.com"
   //   }
+   //   {
+  //     id:"1",
+  //     name:"Dipesh",
+  //     email:"malvia@gmail.com"
+  //   },
+  //   {
+  //     id:"2",
+  //     name:"Mukhesh",
+  //     email:"mukhesha@gmail.com"
+  //   }
   // ]
   const addContactHandler = (contact) => {
     console.log(contact);
